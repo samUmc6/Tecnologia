@@ -1,0 +1,168 @@
+ .gigante{
+	border-radius: 3px;
+    border: solid 5px black;
+	position: absolute;
+	top: 35px;
+	left: 100px;
+	width: 1200px;
+	height: 600px;
+}
+.gigag{
+position: absolute;
+	top: 20px;
+	left: 200px;
+	width: 800px;
+	height: 120px;
+	background: url(sa2.jpg);
+	background-size: cover;
+border-radius: 3px;
+border: solid 5px #B71FA0;
+}
+.gigap{
+position: absolute;
+	top: 8px;
+	left: 25px;
+	width: 750px;
+	height: 100px;
+background: rgba(241, 107, 221,0);
+border-radius: 1px;
+border: solid 3px #E15ACD;
+}
+.gigas{
+position: absolute;
+	top: 5px;
+	left: 270px;
+	width: 400x;
+	height: 90px;
+background: rgba(241, 107, 221,0.3);
+font-family: gi;
+font-size:30px;
+border-radius: 1px;
+border: solid 1px #E15ACD;
+}
+@font-face{
+	font-family: gi;
+	src:url(Locanita.ttf);
+}
+.mediagi{
+	position: absolute;
+	top: 160px;
+	left: 120px;
+	width: 405px;
+	height: 420px;
+	background: #F2BCE8;
+}
+.madiag{
+position: absolute;
+	top: 30px;
+	left: 15px;
+	width: 370px;
+	height: 370px;
+	background-color: #FF8FEE;
+border-radius: 1px;
+border: solid 3px #E86BD5;}
+.te{
+position: absolute;
+top: 5px;
+left: 175px;
+font-family: uwU;
+font-size: 27px;
+}
+@font-face{
+	font-family: uwU;
+	src:url(frezh.ttf);
+}
+.madiap{
+position: absolute;
+	top: 45px;
+	left: 30px;
+	width: 340px;
+	height: 340px;
+	background:rgba(241, 107, 221,0);
+border-radius: 1px;
+border: solid 3px #E86BD5;
+}
+.tx{
+position: absolute;
+top: 5px;
+left: 25px;
+font-family: oli;
+font-size: 27px;
+
+}
+@font-face{
+font-family: oli;
+src:url(Kulo.ttf);
+}
+.foto{
+position: absolute;
+top: 130px;
+left: 80px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(ana.jpeg);
+background-size: cover;
+}
+.pequep{
+	position: absolute;
+	top: 0px;
+	left: 480px;
+	width: 405px;
+	height: 420px;
+	background: #F2BCE8;
+}
+.foto1{
+position: absolute;
+top: 5px;
+left: 200px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(an.jpeg);
+background-size: cover;}
+.foto2{
+position: absolute;
+top: 5px;
+left: 5px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(an2.jpeg);
+background-size: cover;}
+.foto3{
+position: absolute;
+top: 225px;
+left: 200px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(an3.jpeg);
+background-size: cover;}
+.foto4{
+position: absolute;
+top: 225px;
+left: 5px;
+right: 50px;
+width: 200px;
+height: 190px;
+background: url(aaaa.jpeg);
+background-size: cover;}
+.tex{
+position: absolute;
+top: 170px;
+left: 25px;
+font-size: 27px;}
+.ya{
+position: absolute;
+	top: 150px;
+	left: 100px;
+	width: 150px;
+	height: 100px;
+	background:rgba(241, 107, 221,1);
+border-radius: 1px;
+border: solid 3px #E86BD5;
+
+
+
+}
